@@ -157,6 +157,9 @@ cython_debug/
 /data/COMP90086_2024_Project_test/*
 /data/COMP90086_2024_Project_train/*
 
+!/data/COMP90086_2024_Project_test/.gitkeep
+!/data/COMP90086_2024_Project_train/.gitkeep
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

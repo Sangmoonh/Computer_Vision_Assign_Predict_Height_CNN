@@ -1,6 +1,5 @@
 ---
 title: "COMP90086 Final Project - Physical Reasoning"
-output: html_notebook
 ---
 
 ## Overview

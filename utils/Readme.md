@@ -1,4 +1,4 @@
-"COMP90086 Final Project - Physical Reasoning"
+COMP90086 Final Project - Physical Reasoning
 ---
 
 ## Overview

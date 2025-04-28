@@ -22,14 +22,14 @@ The project was implemented using **Google Colab**.
 ## Project Structure
 ```
 ├── data/                     # Folder containing training and test datasets (images)
-    ├── 2025_Project_test.zip    # Test dataset file
-    ├── 2025_Project_train.zip    # Training dataset file
+    ├── Project_test.zip    # Test dataset file
+    ├── Project_train.zip    # Training dataset file
 ├── util/                     # Folder containing utility code and supporting functions
     ├── Alexnet_classification.ipynb    # Baseline model using AlexNet
     ├── Resnet152_classification.ipynb  # Final model using ResNet152
     ├── Final_Resnet152_batch8_prediction.csv  # Final prediction results
     ├── README.md                 # Project documentation (this file)
-
+```
 ---
 
 ## How to Run
